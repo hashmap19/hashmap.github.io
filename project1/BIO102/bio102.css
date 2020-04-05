@@ -86,7 +86,7 @@ a:hover{
   color: white;
 }
 .container0{
-  background-image: url(/project1/home/images/aesthetic-wallpaper-29.jpg);
+  background-color: rgba(44, 43, 43, 0.959);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 8px;
@@ -95,5 +95,5 @@ a:hover{
   width:100%;
   height:100%;
   border: none;
-  background-image: url(/project1/home/images/Cool_Forest_Texture-628286.jpg);
+  background-image: linear-gradient(rgba(67, 113, 151, 0.932),rgb(4, 59, 85));;
 }

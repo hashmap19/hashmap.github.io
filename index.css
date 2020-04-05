@@ -1,0 +1,12 @@
+body{
+    color: rgb(154, 154, 228);
+    background-color: rgba(29, 25, 25, 0.918);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    }
+a {
+    color: white;
+  }
+a:hover{
+    color:red;
+    }
