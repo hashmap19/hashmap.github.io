@@ -3,7 +3,7 @@ html, body {
   min-height: 100%;
 }
 body{
-  background-image: url(/images/beautful.jfif);
+  background-image: url(/project1/home/images/beautful.jfif);
   background-repeat: no-repeat;
   background-size: cover;
 }
